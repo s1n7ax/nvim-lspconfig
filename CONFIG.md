@@ -2025,7 +2025,7 @@ https://projects.eclipse.org/projects/eclipse.jdt.ls
 
 Language server for Java.
 
-See project page for installation instructions.
+See project page for installation instructions. For extended functionalies for java, see [language specific plugins](https://github.com/neovim/nvim-lspconfig/wiki/Language-specific-plugins) wiki.
 
 Due to the nature of java, the settings for eclipse jdtls cannot be automatically
 inferred. Please set the following environmental variables to match your installation. You can set these locally for your project with the help of [direnv](https://github.com/direnv/direnv). Note version numbers will change depending on your project's version of java, your version of eclipse, and in the case of JDTLS_CONFIG, your OS.
